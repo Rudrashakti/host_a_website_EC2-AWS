@@ -68,4 +68,6 @@ http://your-ec2-ip
 replace your-ec2-ip with your ip ,if not happen with this then http://your-ec2-ip:80
 
 Your website should now be accessible through the public IP address of your EC2 instance.
+EXAMPLE WEBSITE:
+![s1](https://github.com/iamnishant22/host_a_website_EC2-AWS/assets/90270425/45ae11b0-6ffd-4aae-97f5-4be779c326c3)
 
