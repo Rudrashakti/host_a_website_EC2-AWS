@@ -62,8 +62,10 @@ sudo mv your-repository-folder/* /var/www/html/
 Step 5: Access Your Website
 Open your web browser and enter your EC2 instance's public IP address.
 
-arduino
+
 Copy code
 http://your-ec2-ip
+replace your-ec2-ip with your ip ,if not happen with this then http://your-ec2-ip:80
+
 Your website should now be accessible through the public IP address of your EC2 instance.
 
